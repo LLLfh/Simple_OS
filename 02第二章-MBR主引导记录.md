@@ -149,8 +149,8 @@ bin/bochs -f bochsrc.disk
 ```
 
 我们在最开始执行的指令也可以发现这个就是jmp，跟我们最开始说BIOS执行的第一条指令的论述是完全一致的！
-![image-20230329222522829](C:\Users\LFH\AppData\Roaming\Typora\typora-user-images\image-20230329222522829.png)
+![image-20230329222522829](https://gitee.com/lfh1234/picture/raw/master/image-20230329222522829.png)
 
-![image-20230329222555096](C:\Users\LFH\AppData\Roaming\Typora\typora-user-images\image-20230329222555096.png)
+![image-20230329222555096](https://gitee.com/lfh1234/picture/raw/master/image-20230329222555096.png)
 
 一切如咱所愿，大成功！！
